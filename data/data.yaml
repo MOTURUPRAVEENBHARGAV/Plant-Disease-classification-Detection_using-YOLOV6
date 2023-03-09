@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/MTECH/SEM4/YOLOV6/data/train/images
+val: /content/drive/MyDrive/MTECH/SEM4/YOLOV6/data/val/images
+
+is_coco: False
+nc: 10
+names: ["Early Blight","Bacterial Spot","Late Blight","Mosaic Virus","Yello Leaf Curl Virus","Leaf Mold","Septorial Leaf Spot","Spider Mite","Healthy","Target Spot"]
